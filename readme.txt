@@ -1,7 +1,7 @@
 -----------------------
 # README
 -----------------------
-This is the personal portfolio template of Selma B.
+This is the personal portfolio webpage of Selma B.
 
 
 Credits:
